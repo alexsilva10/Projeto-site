@@ -1,0 +1,16 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+body{
+    background-color: aquamarine;
+
+}
+main{
+    background-color: cornflowerblue;
+    width: 600px;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 5px 6px 6px black;
+}
